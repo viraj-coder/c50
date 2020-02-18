@@ -1,0 +1,15 @@
+h1{
+color:brown;
+}
+*{
+border:solid;
+}
+.header{
+background-color:cadetblue;
+display:flex;
+justify-content: space-between;
+}
+.footer{
+display:flex;
+justify-content: flex-end;
+}
